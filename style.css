@@ -1,0 +1,25 @@
+* {
+    margin: 5px;
+    padding: 3px;
+    border: 1px dotted black;
+    text-align: center;
+    font-family: Futura
+}
+
+header, footer * {
+    background-color: cornflowerblue;
+}
+
+main * {
+    background-color: lawngreen;
+}
+
+nav {
+    background-color: gold;
+}
+
+nav * {
+    background-color: orangered;
+}
+
+/* Formatieren im WebStorm mit
